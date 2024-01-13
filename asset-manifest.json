@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Klass_Test/static/js/main.389c9c1b.js",
+    "main.js": "/Klass_Test/static/js/main.98567695.js",
     "static/media/Woman.png": "/Klass_Test/static/media/Woman.f49a30d5d8bebd4749bc.png",
     "static/media/Klass_Crop.svg": "/Klass_Test/static/media/Klass_Crop.25e7440a9f025257a4e65a18f449cceb.svg",
     "static/media/Man.png": "/Klass_Test/static/media/Man.c7ad412deb6645701595.png",
     "index.html": "/Klass_Test/index.html",
-    "main.389c9c1b.js.map": "/Klass_Test/static/js/main.389c9c1b.js.map"
+    "main.98567695.js.map": "/Klass_Test/static/js/main.98567695.js.map"
   },
   "entrypoints": [
-    "static/js/main.389c9c1b.js"
+    "static/js/main.98567695.js"
   ]
 }
