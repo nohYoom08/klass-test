@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Klass_Test/static/js/main.76087e0d.js",
-    "static/media/Result.svg": "/Klass_Test/static/media/Result.e49fd5c76044b52f693e55f61271ef4e.svg",
+    "main.js": "/Klass_Test/static/js/main.1fa3d060.js",
+    "static/media/Result.svg": "/Klass_Test/static/media/Result.bf808229827cb66e2176ec07f9a7d355.svg",
     "static/media/ArtWork.svg": "/Klass_Test/static/media/ArtWork.a1a43baec304cc7011e301b099774dab.svg",
-    "static/media/Woman.png": "/Klass_Test/static/media/Woman.f49a30d5d8bebd4749bc.png",
     "static/media/Klass_Crop.svg": "/Klass_Test/static/media/Klass_Crop.25e7440a9f025257a4e65a18f449cceb.svg",
-    "static/media/Man.png": "/Klass_Test/static/media/Man.c7ad412deb6645701595.png",
+    "static/media/Man.png": "/Klass_Test/static/media/Man.9e1a3d0e16c714c1a885.png",
+    "static/media/Woman.png": "/Klass_Test/static/media/Woman.7d037df91ed6ecf92a6f.png",
     "index.html": "/Klass_Test/index.html",
     "static/media/Line.svg": "/Klass_Test/static/media/Line.4b36bd5e2bd4dd05920930f7b397cd8f.svg",
-    "main.76087e0d.js.map": "/Klass_Test/static/js/main.76087e0d.js.map"
+    "main.1fa3d060.js.map": "/Klass_Test/static/js/main.1fa3d060.js.map"
   },
   "entrypoints": [
-    "static/js/main.76087e0d.js"
+    "static/js/main.1fa3d060.js"
   ]
 }
