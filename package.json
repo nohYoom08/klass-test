@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://coderOrlim.github.io/klass-test"
+  "homepage": "http://coderOrlim.github.io/klass-test",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
