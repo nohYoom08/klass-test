@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/64f28845-9eb7-4e82-b8f1-38fc35f62d0a" style="width:50px; height:50px"> &nbsp; Klass Test 
 
-국민대 기반 파티 문화 기획 연합동아리 'KLASS'에서 진행했던 'KUPID'행사의 사전이벤트
+국민대 기반 파티 문화 기획 연합동아리 'KLASS'에서 진행했던 'KUPID'행사의 사전이벤트 페이지
 <br><br>
 
 ## 행사 및 사이트 설명
