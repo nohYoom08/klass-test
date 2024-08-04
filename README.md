@@ -7,6 +7,9 @@
 * 'KUPID'행사는 사전이벤트를 통해 남녀를 매칭하여 파티 당일날 현장에서 만남을 주선해주는 파티
 * 해당 매칭이벤트를 위한 컨텐츠로써 페이지를 제작
 <br>
+## 실행 환경
+Create-React-App를 통한 ReactJS 로컬 환경에서 실행 가능
+<br>
 
 ## 관련 링크
 * 배포 링크 : https://nohyoom08.github.io/klass-test/
